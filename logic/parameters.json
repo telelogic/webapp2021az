@@ -9,7 +9,7 @@
             "value": "loggs2"
         },
         "location": {
-            "value": "centralus"
+            "value": "North Europe"
         },
         "workflowSchema": {
             "value": "https://schema.management.azure.com/providers/Microsoft.Logic/schemas/2016-06-01/workflowdefinition.json#"
